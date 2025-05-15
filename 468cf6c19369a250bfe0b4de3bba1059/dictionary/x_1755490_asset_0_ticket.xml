@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="66dcbec19369a250bfe0b4de3bba106c" label="Ticket" max_length="40" name="x_1755490_asset_0_ticket" type="collection">
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element default="javascript:getNextObjNumberPadded();" display="true" label="Request Number" max_length="40" name="request_number" type="string"/>
+        <element label="Computer Type" max_length="32" name="computer_type" reference="x_1755490_asset_0_computer" type="reference"/>
+        <index name="index">
+            <element name="computer_type"/>
+        </index>
+        <index name="index2">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>
