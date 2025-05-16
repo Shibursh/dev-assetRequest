@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item">
+    <io_set_item action="DELETE">
+        <order>100</order>
+        <sc_cat_item display_value="PC Request">abcfc12d93292650bfe0b4de3bba10e0</sc_cat_item>
+        <sys_class_name>io_set_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-16 08:05:14</sys_created_on>
+        <sys_id>e920d92d93292650bfe0b4de3bba10cf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Item fulfillment step.PC Request</sys_name>
+        <sys_package display_value="Asset Request" source="x_1755490_asset_0">468cf6c19369a250bfe0b4de3bba1059</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Asset Request">468cf6c19369a250bfe0b4de3bba1059</sys_scope>
+        <sys_update_name>io_set_item_e920d92d93292650bfe0b4de3bba10cf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-16 08:05:14</sys_updated_on>
+        <variable_set display_value="Item fulfillment step">1e3ade5977179110d26b8f1a5b5a996c</variable_set>
+    </io_set_item>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Asset Request">468cf6c19369a250bfe0b4de3bba1059</application>
+        <file_path/>
+        <instance_id>405653d5eb9da61ccbbffceacad0cd3a</instance_id>
+        <instance_name>dev341476</instance_name>
+        <name>io_set_item_e920d92d93292650bfe0b4de3bba10cf</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item"><io_set_item action="INSERT_OR_UPDATE"><order>100</order><sc_cat_item display_value="PC Request">abcfc12d93292650bfe0b4de3bba10e0</sc_cat_item><sys_class_name>io_set_item</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-16 08:05:14</sys_created_on><sys_id>e920d92d93292650bfe0b4de3bba10cf</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Item fulfillment step.PC Request</sys_name><sys_package display_value="Asset Request" source="x_1755490_asset_0">468cf6c19369a250bfe0b4de3bba1059</sys_package><sys_policy/><sys_scope display_value="Asset Request">468cf6c19369a250bfe0b4de3bba1059</sys_scope><sys_update_name>io_set_item_e920d92d93292650bfe0b4de3bba10cf</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-16 08:05:14</sys_updated_on><variable_set display_value="Item fulfillment step">1e3ade5977179110d26b8f1a5b5a996c</variable_set></io_set_item></record_update>]]></payload>
+        <payload_hash>-13791079</payload_hash>
+        <record_name>Item fulfillment step.PC Request</record_name>
+        <reverted_from/>
+        <source>f7928f499369a250bfe0b4de3bba10d6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-16 08:05:15</sys_created_on>
+        <sys_id>bd205d2d93292650bfe0b4de3bba105f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>196d820447b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-16 08:05:15</sys_updated_on>
+        <type>Catalog Variable Set</type>
+        <update_guid>b1205d2d40292650cd75742a8686005f</update_guid>
+        <update_guid_history>b1205d2d40292650cd75742a8686005f:-13791079</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Item fulfillment step.PC Request">fd52d9ed93292650bfe0b4de3bba1073</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-16 08:14:49</sys_created_on>
+        <sys_db_object display_value="" name="io_set_item">io_set_item</sys_db_object>
+        <sys_id>b6ade8416cd44bf89f29fbbf76d810e9</sys_id>
+        <sys_metadata>e920d92d93292650bfe0b4de3bba10cf</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Item fulfillment step.PC Request</sys_name>
+        <sys_package display_value="Asset Request" source="x_1755490_asset_0">468cf6c19369a250bfe0b4de3bba1059</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Asset Request">468cf6c19369a250bfe0b4de3bba1059</sys_scope>
+        <sys_scope_delete display_value="">0282680992824a928009efc632a21764</sys_scope_delete>
+        <sys_update_name>io_set_item_e920d92d93292650bfe0b4de3bba10cf</sys_update_name>
+        <sys_update_version display_value="io_set_item_e920d92d93292650bfe0b4de3bba10cf">bd205d2d93292650bfe0b4de3bba105f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-16 08:14:49</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
