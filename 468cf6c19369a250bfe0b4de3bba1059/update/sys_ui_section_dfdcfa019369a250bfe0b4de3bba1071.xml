@@ -4,55 +4,69 @@
             <element>request_number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-16 08:53:44</sys_created_on>
-            <sys_id>fb3bd5e993692650bfe0b4de3bba10b1</sys_id>
+            <sys_created_on>2025-05-19 01:50:22</sys_created_on>
+            <sys_id>ab17931293ad2a50bfe0b4de3bba1054</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1755490_asset_0_ticket" sys_domain="global" view="Default view">dfdcfa019369a250bfe0b4de3bba1071</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-16 08:53:44</sys_updated_on>
+            <sys_updated_on>2025-05-19 01:50:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>status</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-19 01:50:22</sys_created_on>
+            <sys_id>af17931293ad2a50bfe0b4de3bba1061</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1755490_asset_0_ticket" sys_domain="global" view="Default view">dfdcfa019369a250bfe0b4de3bba1071</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-19 01:50:22</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>request_for</element>
-            <position>1</position>
+            <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-16 08:53:44</sys_created_on>
-            <sys_id>f33bd5e993692650bfe0b4de3bba10b2</sys_id>
+            <sys_created_on>2025-05-19 01:50:22</sys_created_on>
+            <sys_id>a717931293ad2a50bfe0b4de3bba1062</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1755490_asset_0_ticket" sys_domain="global" view="Default view">dfdcfa019369a250bfe0b4de3bba1071</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-16 08:53:44</sys_updated_on>
+            <sys_updated_on>2025-05-19 01:50:22</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>request_note</element>
-            <position>2</position>
+            <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-16 08:53:44</sys_created_on>
-            <sys_id>fb3bd5e993692650bfe0b4de3bba10b2</sys_id>
+            <sys_created_on>2025-05-19 01:50:22</sys_created_on>
+            <sys_id>af17931293ad2a50bfe0b4de3bba1062</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1755490_asset_0_ticket" sys_domain="global" view="Default view">dfdcfa019369a250bfe0b4de3bba1071</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-16 08:53:44</sys_updated_on>
+            <sys_updated_on>2025-05-19 01:50:22</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>requester</element>
-            <position>3</position>
+            <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-16 08:53:44</sys_created_on>
-            <sys_id>f33bd5e993692650bfe0b4de3bba10b3</sys_id>
+            <sys_created_on>2025-05-19 01:50:22</sys_created_on>
+            <sys_id>a717931293ad2a50bfe0b4de3bba1063</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1755490_asset_0_ticket" sys_domain="global" view="Default view">dfdcfa019369a250bfe0b4de3bba1071</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-16 08:53:44</sys_updated_on>
+            <sys_updated_on>2025-05-19 01:50:22</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
