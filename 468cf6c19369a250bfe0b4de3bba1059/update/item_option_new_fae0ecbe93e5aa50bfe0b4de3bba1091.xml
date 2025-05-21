@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new">
     <item_option_new action="INSERT_OR_UPDATE">
-        <active>true</active>
+        <active>false</active>
         <attributes/>
-        <cat_item display_value="Demo PC Request">c7212df6936daa50bfe0b4de3bba10b5</cat_item>
+        <cat_item display_value="PC Request">cc5f1c3e93e5aa50bfe0b4de3bba1022</cat_item>
         <category/>
         <choice_direction>down</choice_direction>
         <choice_field/>
@@ -22,7 +22,7 @@
         <dynamic_value_field/>
         <enable_also_request_for>false</enable_also_request_for>
         <example_text/>
-        <field/>
+        <field>request_for</field>
         <global>false</global>
         <help_tag>More information</help_tag>
         <help_text/>
@@ -39,24 +39,24 @@
         <macro/>
         <macroponent/>
         <mandatory>false</mandatory>
-        <map_to_field>false</map_to_field>
+        <map_to_field>true</map_to_field>
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
-        <name>approvaler_is</name>
+        <name>request_for</name>
         <not_available_conversation>false</not_available_conversation>
-        <order>400</order>
+        <order>187</order>
         <post_insert_script/>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <published_ref/>
-        <question_text>Approvaler Is</question_text>
+        <question_text>Request for?</question_text>
         <read_only>false</read_only>
         <read_roles/>
         <read_script/>
         <rec_lookup_price/>
         <rec_price_if_checked>0</rec_price_if_checked>
         <record/>
-        <record_producer_table/>
+        <record_producer_table>x_1755490_asset_0_ticket</record_producer_table>
         <reference>sys_user</reference>
         <reference_qual/>
         <reference_qual_condition/>
@@ -77,16 +77,16 @@
         <summary_macro/>
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2025-05-20 07:06:38</sys_created_on>
-        <sys_id>73d8adf293adaa50bfe0b4de3bba1042</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_name>Approvaler Is</sys_name>
-        <sys_package display_value="Asset Request" source="x_1755490_asset_0">468cf6c19369a250bfe0b4de3bba1059</sys_package>
+        <sys_created_on>2025-05-20 01:52:07</sys_created_on>
+        <sys_id>fae0ecbe93e5aa50bfe0b4de3bba1091</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Request for?</sys_name>
+        <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Asset Request">468cf6c19369a250bfe0b4de3bba1059</sys_scope>
-        <sys_update_name>item_option_new_73d8adf293adaa50bfe0b4de3bba1042</sys_update_name>
+        <sys_update_name>item_option_new_fae0ecbe93e5aa50bfe0b4de3bba1091</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-05-20 07:06:44</sys_updated_on>
+        <sys_updated_on>2025-05-20 01:52:49</sys_updated_on>
         <table/>
         <tooltip/>
         <topic_block/>
@@ -106,22 +106,22 @@
         <visible_summary>true</visible_summary>
         <write_roles/>
     </item_option_new>
-    <sys_translated_text action="delete_multiple" query="documentkey=73d8adf293adaa50bfe0b4de3bba1042"/>
-    <fx_price action="delete_multiple" query="id=73d8adf293adaa50bfe0b4de3bba1042"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=fae0ecbe93e5aa50bfe0b4de3bba1091"/>
+    <fx_price action="delete_multiple" query="id=fae0ecbe93e5aa50bfe0b4de3bba1091"/>
     <fx_price action="INSERT_OR_UPDATE">
         <amount>0</amount>
         <currency display_value="USD">USD</currency>
         <field>price_if_checked</field>
-        <id>73d8adf293adaa50bfe0b4de3bba1042</id>
+        <id>fae0ecbe93e5aa50bfe0b4de3bba1091</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2025-05-20 07:06:39</sys_created_on>
-        <sys_id>1e19653693adaa50bfe0b4de3bba1014</sys_id>
+        <sys_created_on>2025-05-20 01:52:07</sys_created_on>
+        <sys_id>ba11e0fe93e5aa50bfe0b4de3bba108b</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-05-20 07:06:39</sys_updated_on>
+        <sys_updated_on>2025-05-20 01:52:07</sys_updated_on>
         <table>item_option_new</table>
         <type>calculated</type>
     </fx_price>
@@ -129,16 +129,16 @@
         <amount>0</amount>
         <currency display_value="USD">USD</currency>
         <field>rec_price_if_checked</field>
-        <id>73d8adf293adaa50bfe0b4de3bba1042</id>
+        <id>fae0ecbe93e5aa50bfe0b4de3bba1091</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2025-05-20 07:06:39</sys_created_on>
-        <sys_id>de19653693adaa50bfe0b4de3bba1013</sys_id>
+        <sys_created_on>2025-05-20 01:52:07</sys_created_on>
+        <sys_id>7e11e0fe93e5aa50bfe0b4de3bba108a</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-05-20 07:06:39</sys_updated_on>
+        <sys_updated_on>2025-05-20 01:52:07</sys_updated_on>
         <table>item_option_new</table>
         <type>calculated</type>
     </fx_price>

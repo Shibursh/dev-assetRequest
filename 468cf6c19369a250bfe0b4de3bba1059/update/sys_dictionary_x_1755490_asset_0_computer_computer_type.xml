@@ -5,7 +5,7 @@
         <attributes/>
         <audit>false</audit>
         <calculation/>
-        <choice>0</choice>
+        <choice/>
         <choice_field/>
         <choice_table/>
         <column_label>Computer Type</column_label>
@@ -53,7 +53,7 @@
         <sys_scope display_value="Asset Request">468cf6c19369a250bfe0b4de3bba1059</sys_scope>
         <sys_update_name>sys_dictionary_x_1755490_asset_0_computer_computer_type</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-05-15 02:52:34</sys_updated_on>
+        <sys_updated_on>2025-05-21 08:30:18</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
