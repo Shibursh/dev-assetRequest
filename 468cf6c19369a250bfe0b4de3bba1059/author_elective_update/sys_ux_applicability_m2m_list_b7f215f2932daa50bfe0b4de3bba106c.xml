@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_list">
+    <sys_ux_applicability_m2m_list action="DELETE">
+        <active>true</active>
+        <applicability display_value="Audience for app asset-request">eff215f2932daa50bfe0b4de3bba104a</applicability>
+        <list/>
+        <order>100</order>
+        <sys_class_name>sys_ux_applicability_m2m_list</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-20 05:30:05</sys_created_on>
+        <sys_id>b7f215f2932daa50bfe0b4de3bba106c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Asset Request" source="x_1755490_asset_0">468cf6c19369a250bfe0b4de3bba1059</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Asset Request">468cf6c19369a250bfe0b4de3bba1059</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_list_b7f215f2932daa50bfe0b4de3bba106c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-20 05:30:05</sys_updated_on>
+    </sys_ux_applicability_m2m_list>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Asset Request">468cf6c19369a250bfe0b4de3bba1059</application>
+        <file_path/>
+        <instance_id>405653d5eb9da61ccbbffceacad0cd3a</instance_id>
+        <instance_name>dev341476</instance_name>
+        <name>sys_ux_applicability_m2m_list_b7f215f2932daa50bfe0b4de3bba106c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_list"><sys_ux_applicability_m2m_list action="INSERT_OR_UPDATE"><active>true</active><applicability display_value="Audience for app asset-request">eff215f2932daa50bfe0b4de3bba104a</applicability><list/><order>100</order><sys_class_name>sys_ux_applicability_m2m_list</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-20 05:30:05</sys_created_on><sys_id>b7f215f2932daa50bfe0b4de3bba106c</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Asset Request" source="x_1755490_asset_0">468cf6c19369a250bfe0b4de3bba1059</sys_package><sys_policy/><sys_scope display_value="Asset Request">468cf6c19369a250bfe0b4de3bba1059</sys_scope><sys_update_name>sys_ux_applicability_m2m_list_b7f215f2932daa50bfe0b4de3bba106c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-20 05:30:05</sys_updated_on></sys_ux_applicability_m2m_list></record_update>]]></payload>
+        <payload_hash>1890755212</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>f7928f499369a250bfe0b4de3bba10d6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-20 06:00:39</sys_created_on>
+        <sys_id>6ff9597e932daa50bfe0b4de3bba10b2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>196ec47a0ca0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-20 06:00:39</sys_updated_on>
+        <type>List Applicability</type>
+        <update_guid>b7f215f28d2daa509454fafecab84a6d</update_guid>
+        <update_guid_history>b7f215f28d2daa509454fafecab84a6d:619310535,b7f215f28d2daa509454fafecab84a6d:619310535</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-20 06:00:40</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_applicability_m2m_list">sys_ux_applicability_m2m_list</sys_db_object>
+        <sys_id>5b6cfac2a7314c2c805f0426295b4e24</sys_id>
+        <sys_metadata>b7f215f2932daa50bfe0b4de3bba106c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Asset Request" source="x_1755490_asset_0">468cf6c19369a250bfe0b4de3bba1059</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Asset Request">468cf6c19369a250bfe0b4de3bba1059</sys_scope>
+        <sys_scope_delete display_value="">0282680992824a928009efc632a21764</sys_scope_delete>
+        <sys_update_name>sys_ux_applicability_m2m_list_b7f215f2932daa50bfe0b4de3bba106c</sys_update_name>
+        <sys_update_version display_value="sys_ux_applicability_m2m_list_b7f215f2932daa50bfe0b4de3bba106c">6ff9597e932daa50bfe0b4de3bba10b2</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-20 06:00:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Demo PC Request">003add7e932daa50bfe0b4de3bba1081</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-20 06:02:02</sys_created_on>
+        <sys_id>334ad1be932daa50bfe0b4de3bba10d9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Demo PC Request</sys_name>
+        <sys_package display_value="Asset Request" source="x_1755490_asset_0">468cf6c19369a250bfe0b4de3bba1059</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Asset Request">468cf6c19369a250bfe0b4de3bba1059</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_334ad1be932daa50bfe0b4de3bba10d9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-20 06:02:02</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Asset Request">468cf6c19369a250bfe0b4de3bba1059</application>
+        <file_path/>
+        <instance_id>405653d5eb9da61ccbbffceacad0cd3a</instance_id>
+        <instance_name>dev341476</instance_name>
+        <name>sc_cat_item_catalog_334ad1be932daa50bfe0b4de3bba10d9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Demo PC Request">003add7e932daa50bfe0b4de3bba1081</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-20 06:02:02</sys_created_on><sys_id>334ad1be932daa50bfe0b4de3bba10d9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Demo PC Request</sys_name><sys_package display_value="Asset Request" source="x_1755490_asset_0">468cf6c19369a250bfe0b4de3bba1059</sys_package><sys_policy/><sys_scope display_value="Asset Request">468cf6c19369a250bfe0b4de3bba1059</sys_scope><sys_update_name>sc_cat_item_catalog_334ad1be932daa50bfe0b4de3bba10d9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-20 06:02:02</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-2123191322</payload_hash>
+        <record_name>Service Catalog.Demo PC Request</record_name>
+        <reverted_from/>
+        <source>f7928f499369a250bfe0b4de3bba10d6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-20 06:02:02</sys_created_on>
+        <sys_id>3f4ad1be932daa50bfe0b4de3bba10dc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>196ec48e4a40000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-20 06:02:02</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>7f4ad1be1d2daa5055373939376a26db</update_guid>
+        <update_guid_history>7f4ad1be1d2daa5055373939376a26db:-2123191322</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Demo PC Request">6fa221ba936daa50bfe0b4de3bba10f4</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-20 06:38:37</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>66414ed4e29f4fb1bd4484d2903f01e9</sys_id>
+        <sys_metadata>334ad1be932daa50bfe0b4de3bba10d9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Demo PC Request</sys_name>
+        <sys_package display_value="Asset Request" source="x_1755490_asset_0">468cf6c19369a250bfe0b4de3bba1059</sys_package>
+        <sys_parent display_value="">003add7e932daa50bfe0b4de3bba1081</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Asset Request">468cf6c19369a250bfe0b4de3bba1059</sys_scope>
+        <sys_scope_delete display_value="">0282680992824a928009efc632a21764</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_334ad1be932daa50bfe0b4de3bba10d9</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_334ad1be932daa50bfe0b4de3bba10d9">3f4ad1be932daa50bfe0b4de3bba10dc</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-20 06:38:37</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

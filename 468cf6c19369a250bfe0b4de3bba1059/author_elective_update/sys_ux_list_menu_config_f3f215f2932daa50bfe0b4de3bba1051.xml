@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_list_menu_config">
+    <sys_ux_list_menu_config action="DELETE">
+        <active>true</active>
+        <description/>
+        <name>Asset Request_menu_config</name>
+        <sys_class_name>sys_ux_list_menu_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-20 05:30:05</sys_created_on>
+        <sys_id>f3f215f2932daa50bfe0b4de3bba1051</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Asset Request_menu_config</sys_name>
+        <sys_package display_value="Asset Request" source="x_1755490_asset_0">468cf6c19369a250bfe0b4de3bba1059</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Asset Request">468cf6c19369a250bfe0b4de3bba1059</sys_scope>
+        <sys_update_name>sys_ux_list_menu_config_f3f215f2932daa50bfe0b4de3bba1051</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-20 05:30:05</sys_updated_on>
+    </sys_ux_list_menu_config>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Asset Request">468cf6c19369a250bfe0b4de3bba1059</application>
+        <file_path/>
+        <instance_id>405653d5eb9da61ccbbffceacad0cd3a</instance_id>
+        <instance_name>dev341476</instance_name>
+        <name>sys_ux_list_menu_config_f3f215f2932daa50bfe0b4de3bba1051</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_list_menu_config"><sys_ux_list_menu_config action="INSERT_OR_UPDATE"><active>true</active><description/><name>Asset Request_menu_config</name><sys_class_name>sys_ux_list_menu_config</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-20 05:30:05</sys_created_on><sys_id>f3f215f2932daa50bfe0b4de3bba1051</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Asset Request_menu_config</sys_name><sys_package display_value="Asset Request" source="x_1755490_asset_0">468cf6c19369a250bfe0b4de3bba1059</sys_package><sys_policy/><sys_scope display_value="Asset Request">468cf6c19369a250bfe0b4de3bba1059</sys_scope><sys_update_name>sys_ux_list_menu_config_f3f215f2932daa50bfe0b4de3bba1051</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-20 05:30:05</sys_updated_on></sys_ux_list_menu_config></record_update>]]></payload>
+        <payload_hash>1206448024</payload_hash>
+        <record_name>Asset Request_menu_config</record_name>
+        <reverted_from/>
+        <source>f7928f499369a250bfe0b4de3bba10d6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-20 05:30:05</sys_created_on>
+        <sys_id>b3f215f2932daa50bfe0b4de3bba1053</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>196ec2ba40a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-20 05:30:05</sys_updated_on>
+        <type>UX List Menu Configuration</type>
+        <update_guid>b7f215f2be2daa502145e044964aae52</update_guid>
+        <update_guid_history>b7f215f2be2daa502145e044964aae52:1206448024</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-20 06:00:40</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_list_menu_config">sys_ux_list_menu_config</sys_db_object>
+        <sys_id>2e9da1d1c30c43bcb63d26be869dc710</sys_id>
+        <sys_metadata>f3f215f2932daa50bfe0b4de3bba1051</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Asset Request_menu_config</sys_name>
+        <sys_package display_value="Asset Request" source="x_1755490_asset_0">468cf6c19369a250bfe0b4de3bba1059</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Asset Request">468cf6c19369a250bfe0b4de3bba1059</sys_scope>
+        <sys_scope_delete display_value="">0282680992824a928009efc632a21764</sys_scope_delete>
+        <sys_update_name>sys_ux_list_menu_config_f3f215f2932daa50bfe0b4de3bba1051</sys_update_name>
+        <sys_update_version display_value="sys_ux_list_menu_config_f3f215f2932daa50bfe0b4de3bba1051">b3f215f2932daa50bfe0b4de3bba1053</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-20 06:00:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

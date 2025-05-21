@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_config">
+    <sys_ux_app_config action="DELETE">
+        <active>true</active>
+        <custom_icon/>
+        <default_route_type/>
+        <description>IT admin workspace</description>
+        <disable_auto_reflow>false</disable_auto_reflow>
+        <encode_query_string>false</encode_query_string>
+        <icon/>
+        <landing_path>home</landing_path>
+        <name>Asset Request App Config</name>
+        <prefetch_limits/>
+        <sys_class_name>sys_ux_app_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-20 05:30:00</sys_created_on>
+        <sys_id>92f2d1f2832daa50a0035c65cb1c1c1a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Asset Request App Config</sys_name>
+        <sys_package display_value="Asset Request" source="x_1755490_asset_0">468cf6c19369a250bfe0b4de3bba1059</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Asset Request">468cf6c19369a250bfe0b4de3bba1059</sys_scope>
+        <sys_update_name>sys_ux_app_config_92f2d1f2832daa50a0035c65cb1c1c1a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-20 05:30:00</sys_updated_on>
+    </sys_ux_app_config>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Asset Request">468cf6c19369a250bfe0b4de3bba1059</application>
+        <file_path/>
+        <instance_id>405653d5eb9da61ccbbffceacad0cd3a</instance_id>
+        <instance_name>dev341476</instance_name>
+        <name>sys_ux_app_config_92f2d1f2832daa50a0035c65cb1c1c1a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_config"><sys_ux_app_config action="INSERT_OR_UPDATE"><active>true</active><custom_icon/><default_route_type/><description>IT admin workspace</description><disable_auto_reflow>false</disable_auto_reflow><encode_query_string>false</encode_query_string><icon/><landing_path>home</landing_path><name>Asset Request App Config</name><prefetch_limits/><sys_class_name>sys_ux_app_config</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-20 05:30:00</sys_created_on><sys_id>92f2d1f2832daa50a0035c65cb1c1c1a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Asset Request App Config</sys_name><sys_package display_value="Asset Request" source="x_1755490_asset_0">468cf6c19369a250bfe0b4de3bba1059</sys_package><sys_policy/><sys_scope display_value="Asset Request">468cf6c19369a250bfe0b4de3bba1059</sys_scope><sys_update_name>sys_ux_app_config_92f2d1f2832daa50a0035c65cb1c1c1a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-20 05:30:00</sys_updated_on></sys_ux_app_config></record_update>]]></payload>
+        <payload_hash>-1451534985</payload_hash>
+        <record_name>Asset Request App Config</record_name>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-20 06:00:42</sys_created_on>
+        <sys_id>180a997e932daa50bfe0b4de3bba10f7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>196ec47aef10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-20 06:00:42</sys_updated_on>
+        <type>UX App Configuration</type>
+        <update_guid>d40a997e5b2daa5089f3b4b20a0a8df7</update_guid>
+        <update_guid_history>d40a997e5b2daa5089f3b4b20a0a8df7:-1451534985</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-20 06:00:43</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_app_config">sys_ux_app_config</sys_db_object>
+        <sys_id>2b09a3d3e32a4458b335b41894eb1a44</sys_id>
+        <sys_metadata>92f2d1f2832daa50a0035c65cb1c1c1a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Asset Request App Config</sys_name>
+        <sys_package display_value="Asset Request" source="x_1755490_asset_0">468cf6c19369a250bfe0b4de3bba1059</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Asset Request">468cf6c19369a250bfe0b4de3bba1059</sys_scope>
+        <sys_scope_delete display_value="">0282680992824a928009efc632a21764</sys_scope_delete>
+        <sys_update_name>sys_ux_app_config_92f2d1f2832daa50a0035c65cb1c1c1a</sys_update_name>
+        <sys_update_version display_value="sys_ux_app_config_92f2d1f2832daa50a0035c65cb1c1c1a">180a997e932daa50bfe0b4de3bba10f7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-20 06:00:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

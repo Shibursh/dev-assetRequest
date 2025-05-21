@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_search_source_m2m">
+    <ais_search_profile_ais_search_source_m2m action="INSERT_OR_UPDATE">
+        <exclude_attachments_in_now_assist_genius_results>false</exclude_attachments_in_now_assist_genius_results>
+        <exclude_in_now_assist_genius_results>false</exclude_in_now_assist_genius_results>
+        <exclude_in_regular_search>false</exclude_in_regular_search>
+        <profile display_value="asset-request Search Profile">daf2d1f2b02daa50713fdbee7045701a</profile>
+        <search_source display_value="Status">49129572932daa50bfe0b4de3bba103e</search_source>
+        <sys_class_name>ais_search_profile_ais_search_source_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-20 05:30:08</sys_created_on>
+        <sys_id>6c0355f2932daa50bfe0b4de3bba1060</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>asset-request Search Profile.Status</sys_name>
+        <sys_package display_value="Asset Request" source="x_1755490_asset_0">468cf6c19369a250bfe0b4de3bba1059</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Asset Request">468cf6c19369a250bfe0b4de3bba1059</sys_scope>
+        <sys_update_name>ais_search_profile_ais_search_source_m2m_6c0355f2932daa50bfe0b4de3bba1060</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-20 05:30:08</sys_updated_on>
+    </ais_search_profile_ais_search_source_m2m>
+</record_update>

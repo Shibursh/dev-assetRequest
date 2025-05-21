@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_ribbon_config">
+    <sys_ux_ribbon_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>Asset Request Ribbon Config</description>
+        <name>Asset Request Ribbon Config</name>
+        <sys_class_name>sys_ux_ribbon_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-20 05:30:01</sys_created_on>
+        <sys_id>d6f2d1f20e2daa509b59fe6697a7d10c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Asset Request Ribbon Config</sys_name>
+        <sys_package display_value="Asset Request" source="x_1755490_asset_0">468cf6c19369a250bfe0b4de3bba1059</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Asset Request">468cf6c19369a250bfe0b4de3bba1059</sys_scope>
+        <sys_update_name>sys_ux_ribbon_config_d6f2d1f20e2daa509b59fe6697a7d10c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-20 05:30:01</sys_updated_on>
+    </sys_ux_ribbon_config>
+</record_update>

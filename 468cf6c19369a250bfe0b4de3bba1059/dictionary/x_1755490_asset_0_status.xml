@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="49bb2bcd932da250bfe0b4de3bba1060" label="Status" max_length="40" name="x_1755490_asset_0_status" type="collection">
+    <element db_object_id="49bb2bcd932da250bfe0b4de3bba1060" label="Status" max_length="40" name="x_1755490_asset_0_status" text_index="true" type="collection">
         <element display="true" label="Name" max_length="40" name="name" type="string"/>
         <element label="Code" max_length="40" name="code" type="string"/>
     </element>

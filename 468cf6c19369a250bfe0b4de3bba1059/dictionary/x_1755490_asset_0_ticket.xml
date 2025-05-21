@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="66dcbec19369a250bfe0b4de3bba106c" label="Ticket" max_length="40" name="x_1755490_asset_0_ticket" type="collection">
+    <element db_object_id="66dcbec19369a250bfe0b4de3bba106c" label="Ticket" max_length="40" name="x_1755490_asset_0_ticket" text_index="true" type="collection">
         <element default="javascript:gs.getUserID();" label="Requester" max_length="80" name="requester" read_only="true" reference="sys_user" type="reference"/>
         <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
         <element label="Request For" max_length="32" name="request_for" reference="sys_user" type="reference"/>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Demo PC Request">c7fa91be932daa50bfe0b4de3bba10ea</sc_cat_item>
+        <sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-20 06:06:10</sys_created_on>
+        <sys_id>544b19fe932daa50bfe0b4de3bba1065</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.Demo PC Request</sys_name>
+        <sys_package display_value="Asset Request" source="x_1755490_asset_0">468cf6c19369a250bfe0b4de3bba1059</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Asset Request">468cf6c19369a250bfe0b4de3bba1059</sys_scope>
+        <sys_update_name>sc_cat_item_category_544b19fe932daa50bfe0b4de3bba1065</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-20 06:06:10</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Asset Request">468cf6c19369a250bfe0b4de3bba1059</application>
+        <file_path/>
+        <instance_id>405653d5eb9da61ccbbffceacad0cd3a</instance_id>
+        <instance_name>dev341476</instance_name>
+        <name>sc_cat_item_category_544b19fe932daa50bfe0b4de3bba1065</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Demo PC Request">c7fa91be932daa50bfe0b4de3bba10ea</sc_cat_item><sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-20 06:06:10</sys_created_on><sys_id>544b19fe932daa50bfe0b4de3bba1065</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Can We Help You?.Demo PC Request</sys_name><sys_package display_value="Asset Request" source="x_1755490_asset_0">468cf6c19369a250bfe0b4de3bba1059</sys_package><sys_policy/><sys_scope display_value="Asset Request">468cf6c19369a250bfe0b4de3bba1059</sys_scope><sys_update_name>sc_cat_item_category_544b19fe932daa50bfe0b4de3bba1065</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-20 06:06:10</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-1773695485</payload_hash>
+        <record_name>Can We Help You?.Demo PC Request</record_name>
+        <reverted_from/>
+        <source>f7928f499369a250bfe0b4de3bba10d6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-20 06:06:10</sys_created_on>
+        <sys_id>d84b19fe932daa50bfe0b4de3bba1068</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>196ec4cad430000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-20 06:06:10</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>dc4b19fe592daa50b435e0c5570fee67</update_guid>
+        <update_guid_history>dc4b19fe592daa50b435e0c5570fee67:-1773695485</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Can We Help You?.Demo PC Request">126b1dfe932daa50bfe0b4de3bba10af</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-20 06:06:51</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>ad6bda02772449b2ac519c76fb4376c4</sys_id>
+        <sys_metadata>544b19fe932daa50bfe0b4de3bba1065</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.Demo PC Request</sys_name>
+        <sys_package display_value="Asset Request" source="x_1755490_asset_0">468cf6c19369a250bfe0b4de3bba1059</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Asset Request">468cf6c19369a250bfe0b4de3bba1059</sys_scope>
+        <sys_scope_delete display_value="">0282680992824a928009efc632a21764</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_544b19fe932daa50bfe0b4de3bba1065</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_544b19fe932daa50bfe0b4de3bba1065">d84b19fe932daa50bfe0b4de3bba1068</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-20 06:06:51</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

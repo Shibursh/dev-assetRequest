@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="083e2f81936da250bfe0b4de3bba1064" label="Asset Stock" max_length="40" name="x_1755490_asset_0_asset_stock" type="collection">
+    <element db_object_id="083e2f81936da250bfe0b4de3bba1064" label="Asset Stock" max_length="40" name="x_1755490_asset_0_asset_stock" text_index="true" type="collection">
         <element label="Assigned" max_length="40" name="assigned" type="boolean"/>
         <element display="true" label="Serial Number" max_length="40" name="serial_number" type="string"/>
         <element label="Computer Type" max_length="32" name="computer_type" reference="x_1755490_asset_0_computer" type="reference"/>

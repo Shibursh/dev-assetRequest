@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="b6125972932daa50bfe0b4de3bba1024" sys_domain="global" table="x_1755490_asset_0_ticket" version="3" view="workspace-asset-request-0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>request_number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-20 05:26:12</sys_created_on>
+            <sys_id>3e125972932daa50bfe0b4de3bba1026</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1755490_asset_0_ticket" sys_domain="global" view="6202d172492daa505fadcff8948c5a0e">b6125972932daa50bfe0b4de3bba1024</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-20 05:26:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>status</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-20 05:26:12</sys_created_on>
+            <sys_id>36125972932daa50bfe0b4de3bba1027</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1755490_asset_0_ticket" sys_domain="global" view="6202d172492daa505fadcff8948c5a0e">b6125972932daa50bfe0b4de3bba1024</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-20 05:26:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>request_for</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-20 05:26:12</sys_created_on>
+            <sys_id>3e125972932daa50bfe0b4de3bba1025</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1755490_asset_0_ticket" sys_domain="global" view="6202d172492daa505fadcff8948c5a0e">b6125972932daa50bfe0b4de3bba1024</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-20 05:26:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>request_note</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-20 05:26:12</sys_created_on>
+            <sys_id>3e125972932daa50bfe0b4de3bba1027</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1755490_asset_0_ticket" sys_domain="global" view="6202d172492daa505fadcff8948c5a0e">b6125972932daa50bfe0b4de3bba1024</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-20 05:26:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>requester</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-20 05:26:12</sys_created_on>
+            <sys_id>36125972932daa50bfe0b4de3bba1026</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1755490_asset_0_ticket" sys_domain="global" view="6202d172492daa505fadcff8948c5a0e">b6125972932daa50bfe0b4de3bba1024</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-20 05:26:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_1755490_asset_0_ticket</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-20 05:26:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b6125972932daa50bfe0b4de3bba1024</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1755490_asset_0_ticket</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Asset Request" source="x_1755490_asset_0">468cf6c19369a250bfe0b4de3bba1059</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Asset Request">468cf6c19369a250bfe0b4de3bba1059</sys_scope>
+            <sys_update_name>sys_ui_section_b6125972932daa50bfe0b4de3bba1024</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-20 05:26:12</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Workspace Asset Request 0" name="workspace-asset-request-0">6202d172492daa505fadcff8948c5a0e</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

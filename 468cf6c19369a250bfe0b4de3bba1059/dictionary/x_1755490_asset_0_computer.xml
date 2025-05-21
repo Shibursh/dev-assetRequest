@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="91de3a859369a250bfe0b4de3bba10a2" label="Computer" max_length="40" name="x_1755490_asset_0_computer" type="collection">
+    <element db_object_id="91de3a859369a250bfe0b4de3bba10a2" label="Computer" max_length="40" name="x_1755490_asset_0_computer" text_index="true" type="collection">
         <element display="true" label="Computer Type" max_length="80" name="computer_type" type="string"/>
     </element>
 </database>
