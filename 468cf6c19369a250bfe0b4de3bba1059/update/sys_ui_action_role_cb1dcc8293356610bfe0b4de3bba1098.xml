@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_action_role">
+    <sys_ui_action_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_ui_action_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-30 02:45:38</sys_created_on>
+        <sys_id>cb1dcc8293356610bfe0b4de3bba1098</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.x_1755490_asset_0.admin</sys_name>
+        <sys_package display_value="Asset Request" source="x_1755490_asset_0">468cf6c19369a250bfe0b4de3bba1059</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Asset Request">468cf6c19369a250bfe0b4de3bba1059</sys_scope>
+        <sys_ui_action display_value="Clear Laptop Owner">116c0cc693356610bfe0b4de3bba10b1</sys_ui_action>
+        <sys_update_name>sys_ui_action_role_cb1dcc8293356610bfe0b4de3bba1098</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-30 02:45:38</sys_updated_on>
+        <sys_user_role display_value="x_1755490_asset_0.admin" name="x_1755490_asset_0.admin">528cf6c19369a250bfe0b4de3bba1064</sys_user_role>
+    </sys_ui_action_role>
+</record_update>

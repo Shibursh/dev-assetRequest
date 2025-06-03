@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_1755490_asset_0.ClearLaptopOwner</api_name>
+        <caller_access/>
+        <client_callable>true</client_callable>
+        <description/>
+        <mobile_callable>false</mobile_callable>
+        <name>ClearLaptopOwner</name>
+        <sandbox_callable>false</sandbox_callable>
+        <script><![CDATA[var ClearLaptopOwner = Class.create();
+ClearLaptopOwner.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
+
+    clearOwner: function() {
+        var result = {
+            'answer': 'NG'
+        };
+        var sn = this.getParameter('sysparm_sn_number');
+        var rs = new GlideRecord('x_1755490_asset_0_asset_stock');
+        rs.addQuery('serial_number', sn);
+        rs.query();
+        if (rs.next()) {
+            //update the record.
+            rs.assigned = false;
+			//clear reference filed method is setValue
+            rs.setValue('owner','');
+			//rs.setValue('owner->sys_id','');
+            //rs.setDisplayValue('owner','');
+			rs.update();
+            //rs.updateWithReferences();
+			result = {
+                'answer': 'OK'
+            };
+
+        }
+        return JSON.stringify(result);
+    },
+    type: 'ClearLaptopOwner'
+});]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-30 06:11:55</sys_created_on>
+        <sys_id>63c674ca93f56610bfe0b4de3bba105e</sys_id>
+        <sys_mod_count>19</sys_mod_count>
+        <sys_name>ClearLaptopOwner</sys_name>
+        <sys_package display_value="Asset Request" source="x_1755490_asset_0">468cf6c19369a250bfe0b4de3bba1059</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Asset Request">468cf6c19369a250bfe0b4de3bba1059</sys_scope>
+        <sys_update_name>sys_script_include_63c674ca93f56610bfe0b4de3bba105e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-30 07:33:35</sys_updated_on>
+    </sys_script_include>
+</record_update>

@@ -3,77 +3,137 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>sys_created_on</element>
-            <list_id display_value="x_1755490_asset_0_asset_stock" element="NULL" name="x_1755490_asset_0_asset_stock" parent="NULL" relationship="NULL" sys_domain="global" view="6202d172492daa505fadcff8948c5a0e">fd12d572932daa50bfe0b4de3bba1044</list_id>
+            <list_id display_value="x_1755490_asset_0_asset_stock" element="NULL" name="x_1755490_asset_0_asset_stock" parent="NULL" relationship="NULL" sys_domain="global" view="6202d172492daa505fadcff8948c5a0e">14bfca8e93bd6610bfe0b4de3bba102c</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-20 05:26:07</sys_created_on>
-            <sys_id>f912d572932daa50bfe0b4de3bba1046</sys_id>
+            <sys_created_on>2025-05-30 12:15:31</sys_created_on>
+            <sys_id>18bfca8e93bd6610bfe0b4de3bba102e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-20 05:26:07</sys_updated_on>
+            <sys_updated_on>2025-05-30 12:15:31</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>sys_created_by</element>
-            <list_id display_value="x_1755490_asset_0_asset_stock" element="NULL" name="x_1755490_asset_0_asset_stock" parent="NULL" relationship="NULL" sys_domain="global" view="6202d172492daa505fadcff8948c5a0e">fd12d572932daa50bfe0b4de3bba1044</list_id>
+            <list_id display_value="x_1755490_asset_0_asset_stock" element="NULL" name="x_1755490_asset_0_asset_stock" parent="NULL" relationship="NULL" sys_domain="global" view="6202d172492daa505fadcff8948c5a0e">14bfca8e93bd6610bfe0b4de3bba102c</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-20 05:26:07</sys_created_on>
-            <sys_id>f112d572932daa50bfe0b4de3bba1047</sys_id>
+            <sys_created_on>2025-05-30 12:15:31</sys_created_on>
+            <sys_id>1cbf82ce93bd6610bfe0b4de3bba105f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-20 05:26:07</sys_updated_on>
+            <sys_updated_on>2025-05-30 12:15:31</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>sys_updated_on</element>
-            <list_id display_value="x_1755490_asset_0_asset_stock" element="NULL" name="x_1755490_asset_0_asset_stock" parent="NULL" relationship="NULL" sys_domain="global" view="6202d172492daa505fadcff8948c5a0e">fd12d572932daa50bfe0b4de3bba1044</list_id>
+            <list_id display_value="x_1755490_asset_0_asset_stock" element="NULL" name="x_1755490_asset_0_asset_stock" parent="NULL" relationship="NULL" sys_domain="global" view="6202d172492daa505fadcff8948c5a0e">14bfca8e93bd6610bfe0b4de3bba102c</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-20 05:26:07</sys_created_on>
-            <sys_id>f512d572932daa50bfe0b4de3bba1047</sys_id>
+            <sys_created_on>2025-05-30 12:15:31</sys_created_on>
+            <sys_id>10bf82ce93bd6610bfe0b4de3bba1060</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-20 05:26:07</sys_updated_on>
+            <sys_updated_on>2025-05-30 12:15:31</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>sys_updated_by</element>
-            <list_id display_value="x_1755490_asset_0_asset_stock" element="NULL" name="x_1755490_asset_0_asset_stock" parent="NULL" relationship="NULL" sys_domain="global" view="6202d172492daa505fadcff8948c5a0e">fd12d572932daa50bfe0b4de3bba1044</list_id>
+            <list_id display_value="x_1755490_asset_0_asset_stock" element="NULL" name="x_1755490_asset_0_asset_stock" parent="NULL" relationship="NULL" sys_domain="global" view="6202d172492daa505fadcff8948c5a0e">14bfca8e93bd6610bfe0b4de3bba102c</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-20 05:26:07</sys_created_on>
-            <sys_id>f912d572932daa50bfe0b4de3bba1047</sys_id>
+            <sys_created_on>2025-05-30 12:15:31</sys_created_on>
+            <sys_id>14bf82ce93bd6610bfe0b4de3bba1060</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-20 05:26:07</sys_updated_on>
+            <sys_updated_on>2025-05-30 12:15:31</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>sys_mod_count</element>
-            <list_id display_value="x_1755490_asset_0_asset_stock" element="NULL" name="x_1755490_asset_0_asset_stock" parent="NULL" relationship="NULL" sys_domain="global" view="6202d172492daa505fadcff8948c5a0e">fd12d572932daa50bfe0b4de3bba1044</list_id>
+            <list_id display_value="x_1755490_asset_0_asset_stock" element="NULL" name="x_1755490_asset_0_asset_stock" parent="NULL" relationship="NULL" sys_domain="global" view="6202d172492daa505fadcff8948c5a0e">14bfca8e93bd6610bfe0b4de3bba102c</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>4</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-20 05:26:07</sys_created_on>
-            <sys_id>fd12d572932daa50bfe0b4de3bba1047</sys_id>
+            <sys_created_on>2025-05-30 12:15:31</sys_created_on>
+            <sys_id>18bf82ce93bd6610bfe0b4de3bba1060</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-20 05:26:07</sys_updated_on>
+            <sys_updated_on>2025-05-30 12:15:31</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>assigned</element>
+            <list_id display_value="x_1755490_asset_0_asset_stock" element="NULL" name="x_1755490_asset_0_asset_stock" parent="NULL" relationship="NULL" sys_domain="global" view="6202d172492daa505fadcff8948c5a0e">14bfca8e93bd6610bfe0b4de3bba102c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-30 12:15:31</sys_created_on>
+            <sys_id>1cbf82ce93bd6610bfe0b4de3bba1060</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-30 12:15:31</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>computer_type</element>
+            <list_id display_value="x_1755490_asset_0_asset_stock" element="NULL" name="x_1755490_asset_0_asset_stock" parent="NULL" relationship="NULL" sys_domain="global" view="6202d172492daa505fadcff8948c5a0e">14bfca8e93bd6610bfe0b4de3bba102c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-30 12:15:31</sys_created_on>
+            <sys_id>10bf82ce93bd6610bfe0b4de3bba1061</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-30 12:15:31</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>owner</element>
+            <list_id display_value="x_1755490_asset_0_asset_stock" element="NULL" name="x_1755490_asset_0_asset_stock" parent="NULL" relationship="NULL" sys_domain="global" view="6202d172492daa505fadcff8948c5a0e">14bfca8e93bd6610bfe0b4de3bba102c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-30 12:15:31</sys_created_on>
+            <sys_id>14bf82ce93bd6610bfe0b4de3bba1061</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-30 12:15:31</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>serial_number</element>
+            <list_id display_value="x_1755490_asset_0_asset_stock" element="NULL" name="x_1755490_asset_0_asset_stock" parent="NULL" relationship="NULL" sys_domain="global" view="6202d172492daa505fadcff8948c5a0e">14bfca8e93bd6610bfe0b4de3bba102c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-30 12:15:31</sys_created_on>
+            <sys_id>18bf82ce93bd6610bfe0b4de3bba1061</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-30 12:15:31</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -87,10 +147,10 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-20 05:26:07</sys_created_on>
+            <sys_created_on>2025-05-30 12:15:31</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>fd12d572932daa50bfe0b4de3bba1044</sys_id>
+            <sys_id>14bfca8e93bd6610bfe0b4de3bba102c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_1755490_asset_0_asset_stock</sys_name>
             <sys_package display_value="Asset Request" source="x_1755490_asset_0">468cf6c19369a250bfe0b4de3bba1059</sys_package>
@@ -98,7 +158,7 @@
             <sys_scope display_value="Asset Request">468cf6c19369a250bfe0b4de3bba1059</sys_scope>
             <sys_update_name>sys_ui_list_x_1755490_asset_0_asset_stock_workspace-asset-request-0</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-20 05:26:07</sys_updated_on>
+            <sys_updated_on>2025-05-30 12:15:31</sys_updated_on>
             <sys_user/>
             <view display_value="Workspace Asset Request 0" name="workspace-asset-request-0">6202d172492daa505fadcff8948c5a0e</view>
             <view_name/>

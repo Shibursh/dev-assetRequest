@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_email">
+    <sys_script_email action="INSERT_OR_UPDATE">
+        <name>setToCc</name>
+        <new_lines_to_html>false</new_lines_to_html>
+        <script><![CDATA[(function runMailScript(/* GlideRecord */ current, /* TemplatePrinter */ template,
+          /* Optional EmailOutbound */ email, /* Optional GlideRecord */ email_action,
+          /* Optional GlideRecord */ event) {
+
+          
+         //template.print('sssssss');
+		 //template.print('<br/>');
+         //template.print('aaaaaa');
+         //template.print('<br/>');
+
+		 //var p1 = event.parm1;
+		 email.addAddress('cc',event.parm1 + '');
+          var rs = new GlideRecord('sys_user');
+          rs.addQuery('user_name','tom_it_admin');
+          rs.query();
+          let tmpEmail ='';
+		  while (rs.next()) {
+             tmpEmail = rs.getValue('email');
+          }
+		  email.addAddress('cc',tmpEmail + '');
+
+
+		 //template.print(p1);  
+
+
+})(current, template, email, email_action, event);]]></script>
+        <sys_class_name>sys_script_email</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-23 02:34:10</sys_created_on>
+        <sys_id>92f2447393652210bfe0b4de3bba109f</sys_id>
+        <sys_mod_count>23</sys_mod_count>
+        <sys_name>setToCc</sys_name>
+        <sys_package display_value="Asset Request" source="x_1755490_asset_0">468cf6c19369a250bfe0b4de3bba1059</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Asset Request">468cf6c19369a250bfe0b4de3bba1059</sys_scope>
+        <sys_update_name>sys_script_email_92f2447393652210bfe0b4de3bba109f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-23 08:16:06</sys_updated_on>
+    </sys_script_email>
+</record_update>

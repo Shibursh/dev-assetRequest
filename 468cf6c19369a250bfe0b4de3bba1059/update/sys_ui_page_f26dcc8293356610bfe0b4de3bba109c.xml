@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_page">
+    <sys_ui_page action="INSERT_OR_UPDATE">
+        <category>general</category>
+        <client_script><![CDATA[function actionOK() {
+    //alert(g_form.getValue('serial_number'));
+    //alert(g_form.getValue('assigned'));
+    //alert(g_form.getValue('owner'));
+
+    //invoke Ajax
+    var ga = new GlideAjax('ClearLaptopOwner'); // HelloWorld is the script include class 
+    ga.addParam('sysparm_name', 'clearOwner'); // helloWorld is the script include method 
+    ga.addParam('sysparm_sn_number', g_form.getValue('serial_number')); 
+    ga.getXML(parseResponse);
+
+    return true;
+}
+
+// the callback function for returning the result from the server-side code
+function parseResponse(response) {
+    var result = JSON.parse(response.responseXML.documentElement.getAttribute("answer"));
+
+    if (result.answer === 'OK') {
+		//close the domal
+		GlideModal.get().destroy();
+    } else {
+		//alert the update faulture.
+		alert('Update failure! Please contact System Administrator!');
+	}
+    
+}]]></client_script>
+        <description/>
+        <direct>false</direct>
+        <endpoint>x_1755490_asset_0_clear_stock_owner_modal.do</endpoint>
+        <html><![CDATA[<?xml version="1.0" encoding="utf-8" ?>
+<j:jelly trim="false" xmlns:j="jelly:core" xmlns:g="glide" xmlns:j2="null" xmlns:g2="null">
+    <div style="white-space: normal; padding: 4px; color:#667">
+        ${gs.getMessage('Did you Clear the Stock Owner?')}</div>
+    <div style="text-align:right;">
+        <g:dialog_buttons_ok_cancel ok="return actionOK()" ok_id="ok_button" cancel_type="button" />
+    </div>
+</j:jelly>]]></html>
+        <name>clear_stock_owner_modal</name>
+        <processing_script/>
+        <sys_class_name>sys_ui_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-30 02:54:12</sys_created_on>
+        <sys_id>f26dcc8293356610bfe0b4de3bba109c</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>clear_stock_owner_modal</sys_name>
+        <sys_package display_value="Asset Request" source="x_1755490_asset_0">468cf6c19369a250bfe0b4de3bba1059</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Asset Request">468cf6c19369a250bfe0b4de3bba1059</sys_scope>
+        <sys_update_name>sys_ui_page_f26dcc8293356610bfe0b4de3bba109c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-30 07:41:36</sys_updated_on>
+    </sys_ui_page>
+</record_update>

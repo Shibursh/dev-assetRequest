@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-30 02:58:25</sys_created_on>
+        <sys_id>1520d4ca93356610bfe0b4de3bba100c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.x_1755490_asset_0.asset_stock_admin</sys_name>
+        <sys_package display_value="Asset Request" source="x_1755490_asset_0">468cf6c19369a250bfe0b4de3bba1059</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Asset Request">468cf6c19369a250bfe0b4de3bba1059</sys_scope>
+        <sys_security_acl display_value="">fc00940e93356610bfe0b4de3bba10b1</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_1520d4ca93356610bfe0b4de3bba100c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-30 02:58:25</sys_updated_on>
+        <sys_user_role display_value="x_1755490_asset_0.asset_stock_admin" name="x_1755490_asset_0.asset_stock_admin">435d738593ada250bfe0b4de3bba103a</sys_user_role>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Asset Request">468cf6c19369a250bfe0b4de3bba1059</application>
+        <file_path/>
+        <instance_id>405653d5eb9da61ccbbffceacad0cd3a</instance_id>
+        <instance_name>dev341476</instance_name>
+        <name>sys_security_acl_role_1520d4ca93356610bfe0b4de3bba100c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-30 02:58:25</sys_created_on><sys_id>1520d4ca93356610bfe0b4de3bba100c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>.x_1755490_asset_0.asset_stock_admin</sys_name><sys_package display_value="Asset Request" source="x_1755490_asset_0">468cf6c19369a250bfe0b4de3bba1059</sys_package><sys_policy/><sys_scope display_value="Asset Request">468cf6c19369a250bfe0b4de3bba1059</sys_scope><sys_security_acl display_value="">fc00940e93356610bfe0b4de3bba10b1</sys_security_acl><sys_update_name>sys_security_acl_role_1520d4ca93356610bfe0b4de3bba100c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-30 02:58:25</sys_updated_on><sys_user_role display_value="x_1755490_asset_0.asset_stock_admin" name="x_1755490_asset_0.asset_stock_admin">435d738593ada250bfe0b4de3bba103a</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-517906881</payload_hash>
+        <record_name>.x_1755490_asset_0.asset_stock_admin</record_name>
+        <reverted_from/>
+        <source>5726c41b93ed2e50bfe0b4de3bba10a5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-30 02:58:25</sys_created_on>
+        <sys_id>b320980e93356610bfe0b4de3bba1009</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1971f2063690000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-30 02:58:25</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>b720980e3e3566106bc19320e0769108</update_guid>
+        <update_guid_history>b720980e3e3566106bc19320e0769108:-517906881</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value=".x_1755490_asset_0.asset_stock_admin">2361d48e93356610bfe0b4de3bba10de</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-30 03:03:52</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>1af59bea0dba456a9cb0a87fe6006e79</sys_id>
+        <sys_metadata>1520d4ca93356610bfe0b4de3bba100c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.x_1755490_asset_0.asset_stock_admin</sys_name>
+        <sys_package display_value="Asset Request" source="x_1755490_asset_0">468cf6c19369a250bfe0b4de3bba1059</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Asset Request">468cf6c19369a250bfe0b4de3bba1059</sys_scope>
+        <sys_scope_delete display_value="">0282680992824a928009efc632a21764</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_1520d4ca93356610bfe0b4de3bba100c</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_1520d4ca93356610bfe0b4de3bba100c">b320980e93356610bfe0b4de3bba1009</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-30 03:03:52</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

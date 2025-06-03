@@ -2,7 +2,7 @@
     <item_option_new action="INSERT_OR_UPDATE">
         <active>true</active>
         <attributes/>
-        <cat_item display_value="Request a Laptop">c7212df6936daa50bfe0b4de3bba10b5</cat_item>
+        <cat_item display_value="Request Demo for sections">18e89c4593b52210bfe0b4de3bba10b2</cat_item>
         <category/>
         <choice_direction>down</choice_direction>
         <choice_field/>
@@ -38,18 +38,18 @@
         <lookup_value/>
         <macro/>
         <macroponent/>
-        <mandatory>true</mandatory>
+        <mandatory>false</mandatory>
         <map_to_field>false</map_to_field>
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
-        <name>request_for</name>
+        <name>variable_9</name>
         <not_available_conversation>false</not_available_conversation>
-        <order>200</order>
+        <order>9</order>
         <post_insert_script/>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <published_ref/>
-        <question_text>Apply For</question_text>
+        <question_text>Variable 9</question_text>
         <read_only>false</read_only>
         <read_roles/>
         <read_script/>
@@ -57,7 +57,7 @@
         <rec_price_if_checked>0</rec_price_if_checked>
         <record/>
         <record_producer_table/>
-        <reference>sys_user</reference>
+        <reference/>
         <reference_qual/>
         <reference_qual_condition/>
         <rich_text/>
@@ -77,20 +77,20 @@
         <summary_macro/>
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2025-05-20 06:34:09</sys_created_on>
-        <sys_id>0781a53a936daa50bfe0b4de3bba10f7</sys_id>
-        <sys_mod_count>3</sys_mod_count>
-        <sys_name>Apply For</sys_name>
+        <sys_created_on>2025-05-27 01:14:09</sys_created_on>
+        <sys_id>fd7bd04993b52210bfe0b4de3bba101a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Variable 9</sys_name>
         <sys_package display_value="Asset Request" source="x_1755490_asset_0">468cf6c19369a250bfe0b4de3bba1059</sys_package>
         <sys_policy/>
         <sys_scope display_value="Asset Request">468cf6c19369a250bfe0b4de3bba1059</sys_scope>
-        <sys_update_name>item_option_new_0781a53a936daa50bfe0b4de3bba10f7</sys_update_name>
+        <sys_update_name>item_option_new_fd7bd04993b52210bfe0b4de3bba101a</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-05-23 07:13:43</sys_updated_on>
+        <sys_updated_on>2025-05-27 01:14:09</sys_updated_on>
         <table/>
         <tooltip/>
         <topic_block/>
-        <type>8</type>
+        <type>6</type>
         <ui_page/>
         <unique>false</unique>
         <use_dynamic_default>false</use_dynamic_default>
@@ -106,22 +106,22 @@
         <visible_summary>true</visible_summary>
         <write_roles/>
     </item_option_new>
-    <sys_translated_text action="delete_multiple" query="documentkey=0781a53a936daa50bfe0b4de3bba10f7"/>
-    <fx_price action="delete_multiple" query="id=0781a53a936daa50bfe0b4de3bba10f7"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=fd7bd04993b52210bfe0b4de3bba101a"/>
+    <fx_price action="delete_multiple" query="id=fd7bd04993b52210bfe0b4de3bba101a"/>
     <fx_price action="INSERT_OR_UPDATE">
         <amount>0</amount>
         <currency display_value="USD">USD</currency>
         <field>price_if_checked</field>
-        <id>0781a53a936daa50bfe0b4de3bba10f7</id>
+        <id>fd7bd04993b52210bfe0b4de3bba101a</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2025-05-20 06:34:09</sys_created_on>
-        <sys_id>9ea1693a936daa50bfe0b4de3bba10c0</sys_id>
+        <sys_created_on>2025-05-27 01:14:10</sys_created_on>
+        <sys_id>d38bd84993b52210bfe0b4de3bba105b</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-05-20 06:34:09</sys_updated_on>
+        <sys_updated_on>2025-05-27 01:14:10</sys_updated_on>
         <table>item_option_new</table>
         <type>calculated</type>
     </fx_price>
@@ -129,16 +129,16 @@
         <amount>0</amount>
         <currency display_value="USD">USD</currency>
         <field>rec_price_if_checked</field>
-        <id>0781a53a936daa50bfe0b4de3bba10f7</id>
+        <id>fd7bd04993b52210bfe0b4de3bba101a</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2025-05-20 06:34:09</sys_created_on>
-        <sys_id>52a1693a936daa50bfe0b4de3bba10c0</sys_id>
+        <sys_created_on>2025-05-27 01:14:10</sys_created_on>
+        <sys_id>df8b144993b52210bfe0b4de3bba1080</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-05-20 06:34:09</sys_updated_on>
+        <sys_updated_on>2025-05-27 01:14:10</sys_updated_on>
         <table>item_option_new</table>
         <type>calculated</type>
     </fx_price>
