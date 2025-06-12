@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="">1fc4e8f093f56610bfe0b4de3bba10c2</sc_cat_item>
+        <sc_category display_value="Laptops">59f586f23731300054b6a3549dbe5db7</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-26 07:17:17</sys_created_on>
+        <sys_id>2c15603493f56610bfe0b4de3bba1042</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Laptops.</sys_name>
+        <sys_package display_value="Asset Request" source="x_1755490_asset_0">468cf6c19369a250bfe0b4de3bba1059</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Asset Request">468cf6c19369a250bfe0b4de3bba1059</sys_scope>
+        <sys_update_name>sc_cat_item_category_2c15603493f56610bfe0b4de3bba1042</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-26 07:17:17</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Asset Request">468cf6c19369a250bfe0b4de3bba1059</application>
+        <file_path/>
+        <instance_id>405653d5eb9da61ccbbffceacad0cd3a</instance_id>
+        <instance_name>dev341476</instance_name>
+        <name>sc_cat_item_category_2c15603493f56610bfe0b4de3bba1042</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="">1fc4e8f093f56610bfe0b4de3bba10c2</sc_cat_item><sc_category display_value="Laptops">59f586f23731300054b6a3549dbe5db7</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-26 07:17:17</sys_created_on><sys_id>2c15603493f56610bfe0b4de3bba1042</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Laptops.</sys_name><sys_package display_value="Asset Request" source="x_1755490_asset_0">468cf6c19369a250bfe0b4de3bba1059</sys_package><sys_policy/><sys_scope display_value="Asset Request">468cf6c19369a250bfe0b4de3bba1059</sys_scope><sys_update_name>sc_cat_item_category_2c15603493f56610bfe0b4de3bba1042</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-26 07:17:17</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-944551312</payload_hash>
+        <record_name>Laptops.</record_name>
+        <reverted_from/>
+        <source>5726c41b93ed2e50bfe0b4de3bba10a5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-26 07:17:17</sys_created_on>
+        <sys_id>7c15603493f56610bfe0b4de3bba105f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1970b73f29e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-26 07:17:17</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>7015603422f566104cdbe553349a365f</update_guid>
+        <update_guid_history>7015603422f566104cdbe553349a365f:-944551312</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Laptops.">9f2d7f8c938e2610bfe0b4de3bba1092</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-06 01:21:43</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>9a19143e646a4f5a9bbbb32570536c19</sys_id>
+        <sys_metadata>2c15603493f56610bfe0b4de3bba1042</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Laptops.</sys_name>
+        <sys_package display_value="Asset Request" source="x_1755490_asset_0">468cf6c19369a250bfe0b4de3bba1059</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Asset Request">468cf6c19369a250bfe0b4de3bba1059</sys_scope>
+        <sys_scope_delete display_value="">0282680992824a928009efc632a21764</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_2c15603493f56610bfe0b4de3bba1042</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_2c15603493f56610bfe0b4de3bba1042">7c15603493f56610bfe0b4de3bba105f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-06 01:21:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

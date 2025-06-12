@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new_set">
+    <item_option_new_set action="INSERT_OR_UPDATE">
+        <create_roles/>
+        <description/>
+        <display_title>false</display_title>
+        <internal_name>mrvs_cloud_resource</internal_name>
+        <layout>2down</layout>
+        <name/>
+        <order>100</order>
+        <read_roles/>
+        <set_attributes/>
+        <sys_class_name>item_option_new_set</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-05 05:22:40</sys_created_on>
+        <sys_id>8f7aebb79379e210bfe0b4de3bba1076</sys_id>
+        <sys_mod_count>16</sys_mod_count>
+        <sys_name>MRVS Cloud Resource</sys_name>
+        <sys_package display_value="Asset Request" source="x_1755490_asset_0">468cf6c19369a250bfe0b4de3bba1059</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Asset Request">468cf6c19369a250bfe0b4de3bba1059</sys_scope>
+        <sys_update_name>item_option_new_set_8f7aebb79379e210bfe0b4de3bba1076</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2025-06-05 06:22:37</sys_updated_on>
+        <title>MRVS Cloud Resource</title>
+        <type>one_to_many</type>
+        <version>16</version>
+        <write_roles/>
+    </item_option_new_set>
+</record_update>

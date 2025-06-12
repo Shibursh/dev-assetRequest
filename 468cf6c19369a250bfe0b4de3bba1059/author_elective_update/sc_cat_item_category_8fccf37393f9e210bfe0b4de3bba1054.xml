@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Request Cloud Resources">d7bbbbff93b9e210bfe0b4de3bba102d</sc_cat_item>
+        <sc_category display_value="Desktops">900682363731300054b6a3549dbe5d5f</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-05 06:41:34</sys_created_on>
+        <sys_id>8fccf37393f9e210bfe0b4de3bba1054</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Desktops.Request Cloud Resources</sys_name>
+        <sys_package display_value="Asset Request" source="x_1755490_asset_0">468cf6c19369a250bfe0b4de3bba1059</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Asset Request">468cf6c19369a250bfe0b4de3bba1059</sys_scope>
+        <sys_update_name>sc_cat_item_category_8fccf37393f9e210bfe0b4de3bba1054</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-05 06:41:34</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Asset Request">468cf6c19369a250bfe0b4de3bba1059</application>
+        <file_path/>
+        <instance_id>405653d5eb9da61ccbbffceacad0cd3a</instance_id>
+        <instance_name>dev341476</instance_name>
+        <name>sc_cat_item_category_8fccf37393f9e210bfe0b4de3bba1054</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Request Cloud Resources">d7bbbbff93b9e210bfe0b4de3bba102d</sc_cat_item><sc_category display_value="Desktops">900682363731300054b6a3549dbe5d5f</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-06-05 06:41:34</sys_created_on><sys_id>8fccf37393f9e210bfe0b4de3bba1054</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Desktops.Request Cloud Resources</sys_name><sys_package display_value="Asset Request" source="x_1755490_asset_0">468cf6c19369a250bfe0b4de3bba1059</sys_package><sys_policy/><sys_scope display_value="Asset Request">468cf6c19369a250bfe0b4de3bba1059</sys_scope><sys_update_name>sc_cat_item_category_8fccf37393f9e210bfe0b4de3bba1054</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-06-05 06:41:34</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-1720411749</payload_hash>
+        <record_name>Desktops.Request Cloud Resources</record_name>
+        <reverted_from/>
+        <source>5726c41b93ed2e50bfe0b4de3bba10a5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-05 06:41:34</sys_created_on>
+        <sys_id>c7ccf37393f9e210bfe0b4de3bba1059</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1973ed2d83d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-05 06:41:34</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>0bccf3733ef9e21042362c402a737858</update_guid>
+        <update_guid_history>0bccf3733ef9e21042362c402a737858:-1720411749</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Desktops.Request Cloud Resources">6dec777393f9e210bfe0b4de3bba106c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-05 06:42:01</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>026a9cef888b45f880abc2fb57427640</sys_id>
+        <sys_metadata>8fccf37393f9e210bfe0b4de3bba1054</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Desktops.Request Cloud Resources</sys_name>
+        <sys_package display_value="Asset Request" source="x_1755490_asset_0">468cf6c19369a250bfe0b4de3bba1059</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Asset Request">468cf6c19369a250bfe0b4de3bba1059</sys_scope>
+        <sys_scope_delete display_value="">0282680992824a928009efc632a21764</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_8fccf37393f9e210bfe0b4de3bba1054</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_8fccf37393f9e210bfe0b4de3bba1054">c7ccf37393f9e210bfe0b4de3bba1059</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-05 06:42:01</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

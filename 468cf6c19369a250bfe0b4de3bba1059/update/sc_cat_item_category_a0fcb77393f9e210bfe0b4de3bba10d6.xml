@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
     <sc_cat_item_category action="INSERT_OR_UPDATE">
-        <sc_cat_item display_value="">1fc4e8f093f56610bfe0b4de3bba10c2</sc_cat_item>
-        <sc_category display_value="Laptops">59f586f23731300054b6a3549dbe5db7</sc_category>
+        <sc_cat_item display_value="Request Cloud Resources">d7bbbbff93b9e210bfe0b4de3bba102d</sc_cat_item>
+        <sc_category display_value="Desktops">900682363731300054b6a3549dbe5d5f</sc_category>
         <sys_class_name>sc_cat_item_category</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2025-05-26 07:17:17</sys_created_on>
-        <sys_id>2c15603493f56610bfe0b4de3bba1042</sys_id>
+        <sys_created_on>2025-06-05 06:42:13</sys_created_on>
+        <sys_id>a0fcb77393f9e210bfe0b4de3bba10d6</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>Laptops.</sys_name>
+        <sys_name>Desktops.Request Cloud Resources</sys_name>
         <sys_package display_value="Asset Request" source="x_1755490_asset_0">468cf6c19369a250bfe0b4de3bba1059</sys_package>
         <sys_policy/>
         <sys_scope display_value="Asset Request">468cf6c19369a250bfe0b4de3bba1059</sys_scope>
-        <sys_update_name>sc_cat_item_category_2c15603493f56610bfe0b4de3bba1042</sys_update_name>
+        <sys_update_name>sc_cat_item_category_a0fcb77393f9e210bfe0b4de3bba10d6</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-05-26 07:17:17</sys_updated_on>
+        <sys_updated_on>2025-06-05 06:42:13</sys_updated_on>
     </sc_cat_item_category>
 </record_update>
