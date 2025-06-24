@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="DELETE">
+        <active>true</active>
+        <callable_outputs/>
+        <copied_from/>
+        <description>Answer the questions on the form as follows:
+What PC Type? = Lenevo ThinkPad T400
+and Apply For = Bruce Employee
+and Comment = testing</description>
+        <display_name>Set Variable Values (SP)</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes>set Values for Request a Laptop</notes>
+        <order>3</order>
+        <step_config display_value="Set Variable Values (SP)">2e4229b48703030070870cf888cb0b5c</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-18 01:51:30</sys_created_on>
+        <sys_id>64c675c093522250bfe0b4de3bba104f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Set Variable Values (SP)</sys_name>
+        <sys_package display_value="Asset Request" source="x_1755490_asset_0">468cf6c19369a250bfe0b4de3bba1059</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Asset Request">468cf6c19369a250bfe0b4de3bba1059</sys_scope>
+        <sys_update_name>sys_atf_step_64c675c093522250bfe0b4de3bba104f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-18 01:51:30</sys_updated_on>
+        <table/>
+        <test display_value="My Demo Flow Test">2a857d0093522250bfe0b4de3bba103c</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="DELETE" query="document_key=64c675c093522250bfe0b4de3bba104f"/>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>64c675c093522250bfe0b4de3bba104f</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-18 01:51:30</sys_created_on>
+        <sys_id>3017fdc093522250bfe0b4de3bba109a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-18 01:51:30</sys_updated_on>
+        <value>c7212df6936daa50bfe0b4de3bba10b5</value>
+        <variable display_value="Item">d164adb48703030070870cf888cb0b30</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>64c675c093522250bfe0b4de3bba104f</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-18 01:51:30</sys_created_on>
+        <sys_id>7c17fdc093522250bfe0b4de3bba1099</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-18 01:51:30</sys_updated_on>
+        <value>IO:e241213a936daa50bfe0b4de3bba106d=Lenevo ThinkPad T400^IO:0781a53a936daa50bfe0b4de3bba10f7=69fbb70593ada250bfe0b4de3bba1060^IO:a0b1e93a936daa50bfe0b4de3bba1057=testing^EQ</value>
+        <variable display_value="Variable Values">3f3525f48703030070870cf888cb0b37</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>64c675c093522250bfe0b4de3bba104f</document_key>
+        <order>150</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-18 01:51:30</sys_created_on>
+        <sys_id>b817fdc093522250bfe0b4de3bba1099</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-18 01:51:30</sys_updated_on>
+        <value/>
+        <variable display_value="Multi-row Variable Set">2fba49d673142300688e0d573cf6a748</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="DELETE" query="table=var__m_atf_input_variable_2e4229b48703030070870cf888cb0b5c^id=64c675c093522250bfe0b4de3bba104f"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Asset Request">468cf6c19369a250bfe0b4de3bba1059</application>
+        <file_path/>
+        <instance_id>405653d5eb9da61ccbbffceacad0cd3a</instance_id>
+        <instance_name>dev341476</instance_name>
+        <name>sys_atf_step_64c675c093522250bfe0b4de3bba104f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step"><sys_atf_step action="INSERT_OR_UPDATE"><active>true</active><callable_outputs/><copied_from/><description>Answer the questions on the form as follows:
+What PC Type? = Lenevo ThinkPad T400
+and Apply For = Bruce Employee
+and Comment = testing</description><display_name>Set Variable Values (SP)</display_name><inputs/><mugshots_cache_json/><notes>set Values for Request a Laptop</notes><order>3</order><step_config display_value="Set Variable Values (SP)">2e4229b48703030070870cf888cb0b5c</step_config><sys_class_name>sys_atf_step</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-06-18 01:51:30</sys_created_on><sys_id>64c675c093522250bfe0b4de3bba104f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Set Variable Values (SP)</sys_name><sys_package display_value="Asset Request" source="x_1755490_asset_0">468cf6c19369a250bfe0b4de3bba1059</sys_package><sys_policy/><sys_scope display_value="Asset Request">468cf6c19369a250bfe0b4de3bba1059</sys_scope><sys_update_name>sys_atf_step_64c675c093522250bfe0b4de3bba104f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-06-18 01:51:30</sys_updated_on><table/><test display_value="My Demo Flow Test">2a857d0093522250bfe0b4de3bba103c</test><timeout/><warning_message/></sys_atf_step><sys_variable_value action="delete_multiple" query="document_key=64c675c093522250bfe0b4de3bba104f"/><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>64c675c093522250bfe0b4de3bba104f</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-06-18 01:51:30</sys_created_on><sys_id>3017fdc093522250bfe0b4de3bba109a</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-06-18 01:51:30</sys_updated_on><value>c7212df6936daa50bfe0b4de3bba10b5</value><variable display_value="Item">d164adb48703030070870cf888cb0b30</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>64c675c093522250bfe0b4de3bba104f</document_key><order>200</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-06-18 01:51:30</sys_created_on><sys_id>7c17fdc093522250bfe0b4de3bba1099</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-06-18 01:51:30</sys_updated_on><value>IO:e241213a936daa50bfe0b4de3bba106d=Lenevo ThinkPad T400^IO:0781a53a936daa50bfe0b4de3bba10f7=69fbb70593ada250bfe0b4de3bba1060^IO:a0b1e93a936daa50bfe0b4de3bba1057=testing^EQ</value><variable display_value="Variable Values">3f3525f48703030070870cf888cb0b37</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>64c675c093522250bfe0b4de3bba104f</document_key><order>150</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-06-18 01:51:30</sys_created_on><sys_id>b817fdc093522250bfe0b4de3bba1099</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-06-18 01:51:30</sys_updated_on><value/><variable display_value="Multi-row Variable Set">2fba49d673142300688e0d573cf6a748</variable></sys_variable_value><sys_element_mapping action="delete_multiple" query="table=var__m_atf_input_variable_2e4229b48703030070870cf888cb0b5c^id=64c675c093522250bfe0b4de3bba104f"/></record_update>]]></payload>
+        <payload_hash>45714077</payload_hash>
+        <record_name>Set Variable Values (SP)</record_name>
+        <reverted_from/>
+        <source>5726c41b93ed2e50bfe0b4de3bba10a5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-18 01:51:30</sys_created_on>
+        <sys_id>b817fdc093522250bfe0b4de3bba109c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19780bbf2040000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-18 01:51:30</sys_updated_on>
+        <type>Test Step</type>
+        <update_guid>bc17fdc017522250093ae8cf034a829b</update_guid>
+        <update_guid_history>bc17fdc017522250093ae8cf034a829b:45714077</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-18 02:06:52</sys_created_on>
+        <sys_db_object display_value="" name="sys_atf_step">sys_atf_step</sys_db_object>
+        <sys_id>54dd45108f18434287a292e925425204</sys_id>
+        <sys_metadata>64c675c093522250bfe0b4de3bba104f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Set Variable Values (SP)</sys_name>
+        <sys_package display_value="Asset Request" source="x_1755490_asset_0">468cf6c19369a250bfe0b4de3bba1059</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Asset Request">468cf6c19369a250bfe0b4de3bba1059</sys_scope>
+        <sys_scope_delete display_value="">0282680992824a928009efc632a21764</sys_scope_delete>
+        <sys_update_name>sys_atf_step_64c675c093522250bfe0b4de3bba104f</sys_update_name>
+        <sys_update_version display_value="sys_atf_step_64c675c093522250bfe0b4de3bba104f">b817fdc093522250bfe0b4de3bba109c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-18 02:06:52</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

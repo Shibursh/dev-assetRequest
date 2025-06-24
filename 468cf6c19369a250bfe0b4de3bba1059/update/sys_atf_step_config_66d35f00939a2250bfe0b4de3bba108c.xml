@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step_config">
+    <sys_atf_step_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <batch_order_constraint/>
+        <can_mutate_page>false</can_mutate_page>
+        <category display_value="Server">317c4dc20b202200a8d7a12cf6673aa8</category>
+        <class_name/>
+        <class_type>script</class_type>
+        <deprecated>false</deprecated>
+        <description_generator><![CDATA[function generateDescription() {
+    // the global variable 'step' represents the current glide record
+    var description = "Retrieve Request Item Number By sys_id";
+	// your code here
+	return description;
+}
+ generateDescription();
+]]></description_generator>
+        <html_description><![CDATA[<p>Retrieve Request Item Number By sys_id</p>]]></html_description>
+        <icon>icon-article-document</icon>
+        <inputs/>
+        <name>Retrieve Request Item Number</name>
+        <order>200</order>
+        <outputs/>
+        <performance_include>false</performance_include>
+        <step_env display_value="Server - Independent">6c2bcea1870312009dccc9ded0e3ecca</step_env>
+        <step_execution_generator><![CDATA[// The inputs are a map of the variables defined in the inputs related list below.
+// Inputs are consumed in the step configuration. Input
+// values may be hardcoded or mapped from the outputs of a previous step.
+// If a test author using your step uses mapping to pass in an output from a previous 
+// test step then when referencing the input variable the mapping will be resolved 
+// automatically
+//  Example:
+//      var myRecords = new GlideRecord(inputs.table);
+//
+// The outputs are a map of the variables defined in the outputs related list.
+// Outputs should be set (assigned) in order to pass data out of a test step that
+// can be consumed my mapping as an input to subsequent steps. 
+//  Example:
+//      outputs.table = gr.getRecordClassName()
+//
+//
+// Note that inputs and outputs are strongly typed as defined in their variable definition.
+// Their behavior is the same as a dictionary defined field of the same type in a table.
+//
+// The stepResult is a simple API for controlling the step pass/fail and logging with three
+// methods:
+//      stepResult.setFailed: Causes step to fail
+//
+//      stepResult.setSuccess: Causes step to succeed
+//
+//      stepResult.setOutputMessage: Log a message to step results after step executes.
+//            Can only be called once or will overwrite previous 
+//            message
+//
+// If neither setFailed or setSuccess is called the default is to succeed.
+//
+// Example usage of step timeout in script
+//      var counter = 0;
+//      // 'timeout' is a field on the step form
+//      while (counter <= timeout) {
+//            if (desiredOutcome) {
+//                stepResult.setOutputMessage('Success!');
+//                stepResult.setSuccess();
+//                return;
+//            }
+//            counter++;
+//
+//            // When writing scripts in ATF, use waitOneSecond() instead of gs.sleep()
+//            // since gs.sleep() may not work in non-global scopes
+//            sn_atf.AutomatedTestingFramework.waitOneSecond();
+//      }
+//
+//      // desired outcome did not occur within the timeout
+//      stepResult.setOutputMessage('Failure!');
+//      stepResult.setFailed();
+//
+(function executeStep(inputs, outputs, stepResult, timeout) {
+    var recordSysId = inputs.u_sys_id;
+	//gs.info("test recordSysId: " + inputs.u_test_str + " u_sys_id: " + recordSysId);
+
+    var gr = new GlideRecord("sc_req_item");
+    gr.addQuery("sys_id", recordSysId);
+    gr.query();
+    if (gr.next()) {
+        outputs.u_number = gr.getValue('number');
+        stepResult.setOutputMessage('Found the record');
+        stepResult.setSuccess();
+    } else {
+		//outputs.u_number = 'REQ000001';
+        stepResult.setOutputMessage('Record not found!!!');
+        //stepResult.setSuccess();
+		stepResult.setFailed();
+    }
+
+
+}(inputs, outputs, stepResult, timeout));
+]]></step_execution_generator>
+        <sys_class_name>sys_atf_step_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-18 08:39:08</sys_created_on>
+        <sys_id>66d35f00939a2250bfe0b4de3bba108c</sys_id>
+        <sys_mod_count>16</sys_mod_count>
+        <sys_name>Retrieve Request Item Number</sys_name>
+        <sys_package display_value="Asset Request" source="x_1755490_asset_0">468cf6c19369a250bfe0b4de3bba1059</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Asset Request">468cf6c19369a250bfe0b4de3bba1059</sys_scope>
+        <sys_update_name>sys_atf_step_config_66d35f00939a2250bfe0b4de3bba108c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-19 06:46:57</sys_updated_on>
+        <template_reminder>NA</template_reminder>
+        <type display_value="Test Step" name="sys_atf_step">c8f41e28c8d1221055906c7518aa2d21</type>
+        <wizard_redirect/>
+    </sys_atf_step_config>
+    <sys_translated_text action="delete_multiple" query="documentkey=66d35f00939a2250bfe0b4de3bba108c"/>
+    <sys_variable_value action="delete_multiple" query="document_key=66d35f00939a2250bfe0b4de3bba108c"/>
+    <sys_element_mapping action="delete_multiple" query="table=var__m_atf_input_variable_66d35f00939a2250bfe0b4de3bba108c^id=66d35f00939a2250bfe0b4de3bba108c"/>
+    <sys_element_mapping action="delete_multiple" query="table=var__m_atf_output_variable_66d35f00939a2250bfe0b4de3bba108c^id=66d35f00939a2250bfe0b4de3bba108c"/>
+</record_update>

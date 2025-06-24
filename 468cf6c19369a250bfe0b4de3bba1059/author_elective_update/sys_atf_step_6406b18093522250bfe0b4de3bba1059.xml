@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="DELETE">
+        <active>true</active>
+        <callable_outputs/>
+        <copied_from/>
+        <description>Impersonate the user: Jerry Manager with user Id: jerry_manager
+
+Warning: Impersonating an existing user may cause unexpected behavior for this test. Avoid potential issues by adding a 'Create a User' step instead&#13;
+See the documentation for Test Design Considerations</description>
+        <display_name>Impersonate</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes>Impersonate Jerry for the requester</notes>
+        <order>1</order>
+        <step_config display_value="Impersonate">071ee5b253331200040729cac2dc348d</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-18 01:47:47</sys_created_on>
+        <sys_id>6406b18093522250bfe0b4de3bba1059</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Impersonate</sys_name>
+        <sys_package display_value="Asset Request" source="x_1755490_asset_0">468cf6c19369a250bfe0b4de3bba1059</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Asset Request">468cf6c19369a250bfe0b4de3bba1059</sys_scope>
+        <sys_update_name>sys_atf_step_6406b18093522250bfe0b4de3bba1059</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-18 01:47:47</sys_updated_on>
+        <table/>
+        <test display_value="My Demo Flow Test">2a857d0093522250bfe0b4de3bba103c</test>
+        <timeout/>
+        <warning_message>Warning: Impersonating an existing user may cause unexpected behavior for this test. Avoid potential issues by adding a 'Create a User' step instead&#13;
+See the documentation for Test Design Considerations</warning_message>
+    </sys_atf_step>
+    <sys_variable_value action="DELETE" query="document_key=6406b18093522250bfe0b4de3bba1059"/>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>6406b18093522250bfe0b4de3bba1059</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-18 01:47:47</sys_created_on>
+        <sys_id>6e36f18093522250bfe0b4de3bba108d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-18 01:47:47</sys_updated_on>
+        <value>b0db3b0593ada250bfe0b4de3bba10fb</value>
+        <variable display_value="User">586e2c4253e0220002c6435723dc3415</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="DELETE" query="table=var__m_atf_input_variable_071ee5b253331200040729cac2dc348d^id=6406b18093522250bfe0b4de3bba1059"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Asset Request">468cf6c19369a250bfe0b4de3bba1059</application>
+        <file_path/>
+        <instance_id>405653d5eb9da61ccbbffceacad0cd3a</instance_id>
+        <instance_name>dev341476</instance_name>
+        <name>sys_atf_step_6406b18093522250bfe0b4de3bba1059</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step"><sys_atf_step action="INSERT_OR_UPDATE"><active>true</active><callable_outputs/><copied_from/><description>Impersonate the user: Jerry Manager with user Id: jerry_manager
+
+Warning: Impersonating an existing user may cause unexpected behavior for this test. Avoid potential issues by adding a 'Create a User' step instead&#13;
+See the documentation for Test Design Considerations</description><display_name>Impersonate</display_name><inputs/><mugshots_cache_json/><notes>Impersonate Jerry for the requester</notes><order>1</order><step_config display_value="Impersonate">071ee5b253331200040729cac2dc348d</step_config><sys_class_name>sys_atf_step</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-06-18 01:47:47</sys_created_on><sys_id>6406b18093522250bfe0b4de3bba1059</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Impersonate</sys_name><sys_package display_value="Asset Request" source="x_1755490_asset_0">468cf6c19369a250bfe0b4de3bba1059</sys_package><sys_policy/><sys_scope display_value="Asset Request">468cf6c19369a250bfe0b4de3bba1059</sys_scope><sys_update_name>sys_atf_step_6406b18093522250bfe0b4de3bba1059</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-06-18 01:47:47</sys_updated_on><table/><test display_value="My Demo Flow Test">2a857d0093522250bfe0b4de3bba103c</test><timeout/><warning_message>Warning: Impersonating an existing user may cause unexpected behavior for this test. Avoid potential issues by adding a 'Create a User' step instead&#13;
+See the documentation for Test Design Considerations</warning_message></sys_atf_step><sys_variable_value action="delete_multiple" query="document_key=6406b18093522250bfe0b4de3bba1059"/><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>6406b18093522250bfe0b4de3bba1059</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-06-18 01:47:47</sys_created_on><sys_id>6e36f18093522250bfe0b4de3bba108d</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-06-18 01:47:47</sys_updated_on><value>b0db3b0593ada250bfe0b4de3bba10fb</value><variable display_value="User">586e2c4253e0220002c6435723dc3415</variable></sys_variable_value><sys_element_mapping action="delete_multiple" query="table=var__m_atf_input_variable_071ee5b253331200040729cac2dc348d^id=6406b18093522250bfe0b4de3bba1059"/></record_update>]]></payload>
+        <payload_hash>-1127258245</payload_hash>
+        <record_name>Impersonate</record_name>
+        <reverted_from/>
+        <source>5726c41b93ed2e50bfe0b4de3bba10a5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-18 01:47:47</sys_created_on>
+        <sys_id>6e36f98093522250bfe0b4de3bba10d2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19780b88d800000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-18 01:47:47</sys_updated_on>
+        <type>Test Step</type>
+        <update_guid>6236f9800052225082f3f99a6a7b89d2</update_guid>
+        <update_guid_history>6236f9800052225082f3f99a6a7b89d2:-1127258245</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-18 02:06:51</sys_created_on>
+        <sys_db_object display_value="" name="sys_atf_step">sys_atf_step</sys_db_object>
+        <sys_id>813d0afb4499429bbe7dfda125e0bee1</sys_id>
+        <sys_metadata>6406b18093522250bfe0b4de3bba1059</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Impersonate</sys_name>
+        <sys_package display_value="Asset Request" source="x_1755490_asset_0">468cf6c19369a250bfe0b4de3bba1059</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Asset Request">468cf6c19369a250bfe0b4de3bba1059</sys_scope>
+        <sys_scope_delete display_value="">0282680992824a928009efc632a21764</sys_scope_delete>
+        <sys_update_name>sys_atf_step_6406b18093522250bfe0b4de3bba1059</sys_update_name>
+        <sys_update_version display_value="sys_atf_step_6406b18093522250bfe0b4de3bba1059">6e36f98093522250bfe0b4de3bba10d2</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-18 02:06:51</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

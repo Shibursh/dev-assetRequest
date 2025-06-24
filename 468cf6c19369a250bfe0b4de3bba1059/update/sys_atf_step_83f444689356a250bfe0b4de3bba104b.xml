@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <callable_outputs/>
+        <copied_from display_value="Retrieve Request Item Number">8a65431893de6250bfe0b4de3bba100c</copied_from>
+        <description>Retrieve Request Item Number By sys_id</description>
+        <display_name>Retrieve Request Item Number</display_name>
+        <inputs/>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>12</order>
+        <step_config display_value="Retrieve Request Item Number">66d35f00939a2250bfe0b4de3bba108c</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-19 06:49:59</sys_created_on>
+        <sys_id>83f444689356a250bfe0b4de3bba104b</sys_id>
+        <sys_mod_count>9</sys_mod_count>
+        <sys_name>Retrieve Request Item Number</sys_name>
+        <sys_package display_value="Asset Request" source="x_1755490_asset_0">468cf6c19369a250bfe0b4de3bba1059</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Asset Request">468cf6c19369a250bfe0b4de3bba1059</sys_scope>
+        <sys_update_name>sys_atf_step_83f444689356a250bfe0b4de3bba104b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-19 07:06:40</sys_updated_on>
+        <table/>
+        <test display_value="My Demo Flow Test - Reject">2af480689356a250bfe0b4de3bba1096</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=83f444689356a250bfe0b4de3bba104b"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>83f444689356a250bfe0b4de3bba104b</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-19 06:49:59</sys_created_on>
+        <sys_id>cff444689356a250bfe0b4de3bba104b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-19 06:50:00</sys_updated_on>
+        <value>{{step['e2f404689356a250bfe0b4de3bba10e1'].first_record}}</value>
+        <variable display_value="sys_id">5e94df40939a2250bfe0b4de3bba107c</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=83f444689356a250bfe0b4de3bba104b"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>u_sys_id</field>
+        <id>83f444689356a250bfe0b4de3bba104b</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-19 06:49:59</sys_created_on>
+        <sys_id>47f444689356a250bfe0b4de3bba104c</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-19 06:49:59</sys_updated_on>
+        <table>var__m_atf_input_variable_66d35f00939a2250bfe0b4de3bba108c</table>
+        <value>{{step['e2f404689356a250bfe0b4de3bba10e1'].first_record}}</value>
+    </sys_element_mapping>
+</record_update>
